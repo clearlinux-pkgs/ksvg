@@ -1,115 +1,115 @@
-libKF6Svg.so.6:_ZN4KSvg3Svg11eventFilterEP7QObjectP6QEvent
-libKF6Svg.so.6:_ZN4KSvg3Svg11qt_metacallEN11QMetaObject4CallEiPPv
-libKF6Svg.so.6:_ZN4KSvg3Svg11qt_metacastEPKc
-libKF6Svg.so.6:_ZN4KSvg3Svg11setColorSetENS0_8ColorSetE
-libKF6Svg.so.6:_ZN4KSvg3Svg11setImageSetEPNS_8ImageSetE
-libKF6Svg.so.6:_ZN4KSvg3Svg11sizeChangedEv
-libKF6Svg.so.6:_ZN4KSvg3Svg12setImagePathERK7QString
-libKF6Svg.so.6:_ZN4KSvg3Svg13repaintNeededEv
-libKF6Svg.so.6:_ZN4KSvg3Svg13statusChangedENS0_6StatusE
-libKF6Svg.so.6:_ZN4KSvg3Svg15colorSetChangedENS0_8ColorSetE
-libKF6Svg.so.6:_ZN4KSvg3Svg15imageSetChangedEPNS_8ImageSetE
-libKF6Svg.so.6:_ZN4KSvg3Svg16colorHintChangedEv
-libKF6Svg.so.6:_ZN4KSvg3Svg16imagePathChangedEv
-libKF6Svg.so.6:_ZN4KSvg3Svg19clearColorOverridesEv
-libKF6Svg.so.6:_ZN4KSvg3Svg19setDevicePixelRatioEd
-libKF6Svg.so.6:_ZN4KSvg3Svg22setUsingRenderingCacheEb
-libKF6Svg.so.6:_ZN4KSvg3Svg25setContainsMultipleImagesEb
-libKF6Svg.so.6:_ZN4KSvg3Svg26fromCurrentImageSetChangedEb
-libKF6Svg.so.6:_ZN4KSvg3Svg5imageERK5QSizeRK7QString
-libKF6Svg.so.6:_ZN4KSvg3Svg5paintEP8QPainterRK6QRectFRK7QString
-libKF6Svg.so.6:_ZN4KSvg3Svg5paintEP8QPainterRK7QPointFRK7QString
-libKF6Svg.so.6:_ZN4KSvg3Svg5paintEP8QPainteriiRK7QString
-libKF6Svg.so.6:_ZN4KSvg3Svg5paintEP8QPainteriiiiRK7QString
-libKF6Svg.so.6:_ZN4KSvg3Svg6pixmapERK7QString
-libKF6Svg.so.6:_ZN4KSvg3Svg6resizeERK6QSizeF
-libKF6Svg.so.6:_ZN4KSvg3Svg6resizeEdd
-libKF6Svg.so.6:_ZN4KSvg3Svg6resizeEv
-libKF6Svg.so.6:_ZN4KSvg3Svg8setColorENS0_15StyleSheetColorERK6QColor
-libKF6Svg.so.6:_ZN4KSvg3Svg9setStatusENS0_6StatusE
-libKF6Svg.so.6:_ZN4KSvg3SvgC1EP7QObject
-libKF6Svg.so.6:_ZN4KSvg3SvgC2EP7QObject
-libKF6Svg.so.6:_ZN4KSvg3SvgD0Ev
-libKF6Svg.so.6:_ZN4KSvg3SvgD1Ev
-libKF6Svg.so.6:_ZN4KSvg3SvgD2Ev
-libKF6Svg.so.6:_ZN4KSvg8FrameSvg10clearCacheEv
-libKF6Svg.so.6:_ZN4KSvg8FrameSvg10paintFrameEP8QPainterRK6QRectFS5_
-libKF6Svg.so.6:_ZN4KSvg8FrameSvg10paintFrameEP8QPainterRK7QPointF
-libKF6Svg.so.6:_ZN4KSvg8FrameSvg11framePixmapEv
-libKF6Svg.so.6:_ZN4KSvg8FrameSvg11qt_metacallEN11QMetaObject4CallEiPPv
-libKF6Svg.so.6:_ZN4KSvg8FrameSvg11qt_metacastEPKc
-libKF6Svg.so.6:_ZN4KSvg8FrameSvg11resizeFrameERK6QSizeF
-libKF6Svg.so.6:_ZN4KSvg8FrameSvg12setImagePathERK7QString
-libKF6Svg.so.6:_ZN4KSvg8FrameSvg16setElementPrefixENS0_14LocationPrefixE
-libKF6Svg.so.6:_ZN4KSvg8FrameSvg16setElementPrefixERK7QString
-libKF6Svg.so.6:_ZN4KSvg8FrameSvg17setEnabledBordersE6QFlagsINS0_13EnabledBorderEE
-libKF6Svg.so.6:_ZN4KSvg8FrameSvg17setRepaintBlockedEb
-libKF6Svg.so.6:_ZN4KSvg8FrameSvg19minimumDrawingWidthEv
-libKF6Svg.so.6:_ZN4KSvg8FrameSvg20minimumDrawingHeightEv
-libKF6Svg.so.6:_ZN4KSvg8FrameSvg25setCacheAllRenderedFramesEb
-libKF6Svg.so.6:_ZN4KSvg8FrameSvg6prefixEv
-libKF6Svg.so.6:_ZN4KSvg8FrameSvgC1EP7QObject
-libKF6Svg.so.6:_ZN4KSvg8FrameSvgC2EP7QObject
-libKF6Svg.so.6:_ZN4KSvg8FrameSvgD0Ev
-libKF6Svg.so.6:_ZN4KSvg8FrameSvgD1Ev
-libKF6Svg.so.6:_ZN4KSvg8FrameSvgD2Ev
-libKF6Svg.so.6:_ZN4KSvg8ImageSet11qt_metacallEN11QMetaObject4CallEiPPv
-libKF6Svg.so.6:_ZN4KSvg8ImageSet11qt_metacastEPKc
-libKF6Svg.so.6:_ZN4KSvg8ImageSet11setBasePathERK7QString
-libKF6Svg.so.6:_ZN4KSvg8ImageSet12setSelectorsERK5QListI7QStringE
-libKF6Svg.so.6:_ZN4KSvg8ImageSet13setCacheLimitEi
-libKF6Svg.so.6:_ZN4KSvg8ImageSet15basePathChangedERK7QString
-libKF6Svg.so.6:_ZN4KSvg8ImageSet15imageSetChangedERK7QString
-libKF6Svg.so.6:_ZN4KSvg8ImageSet15setImageSetNameERK7QString
-libKF6Svg.so.6:_ZN4KSvg8ImageSet20setUseGlobalSettingsEb
-libKF6Svg.so.6:_ZN4KSvg8ImageSetC1EP7QObject
-libKF6Svg.so.6:_ZN4KSvg8ImageSetC1ERK7QStringS3_P7QObject
-libKF6Svg.so.6:_ZN4KSvg8ImageSetC2EP7QObject
-libKF6Svg.so.6:_ZN4KSvg8ImageSetC2ERK7QStringS3_P7QObject
-libKF6Svg.so.6:_ZN4KSvg8ImageSetD0Ev
-libKF6Svg.so.6:_ZN4KSvg8ImageSetD1Ev
-libKF6Svg.so.6:_ZN4KSvg8ImageSetD2Ev
-libKF6Svg.so.6:_ZNK4KSvg3Svg10hasElementE11QStringView
-libKF6Svg.so.6:_ZNK4KSvg3Svg10hasElementERK7QString
-libKF6Svg.so.6:_ZNK4KSvg3Svg10metaObjectEv
-libKF6Svg.so.6:_ZNK4KSvg3Svg11elementRectE11QStringView
-libKF6Svg.so.6:_ZNK4KSvg3Svg11elementRectERK7QString
-libKF6Svg.so.6:_ZNK4KSvg3Svg11elementSizeE11QStringView
-libKF6Svg.so.6:_ZNK4KSvg3Svg11elementSizeERK7QString
-libKF6Svg.so.6:_ZNK4KSvg3Svg16devicePixelRatioEv
-libKF6Svg.so.6:_ZNK4KSvg3Svg19fromCurrentImageSetEv
-libKF6Svg.so.6:_ZNK4KSvg3Svg21isUsingRenderingCacheEv
-libKF6Svg.so.6:_ZNK4KSvg3Svg22containsMultipleImagesEv
-libKF6Svg.so.6:_ZNK4KSvg3Svg4sizeEv
-libKF6Svg.so.6:_ZNK4KSvg3Svg5colorENS0_15StyleSheetColorE
-libKF6Svg.so.6:_ZNK4KSvg3Svg6statusEv
-libKF6Svg.so.6:_ZNK4KSvg3Svg7isValidEv
-libKF6Svg.so.6:_ZNK4KSvg3Svg8colorSetEv
-libKF6Svg.so.6:_ZNK4KSvg3Svg8imageSetEv
-libKF6Svg.so.6:_ZNK4KSvg3Svg9imagePathEv
-libKF6Svg.so.6:_ZNK4KSvg8FrameSvg10getMarginsERdS1_S1_S1_
-libKF6Svg.so.6:_ZNK4KSvg8FrameSvg10marginSizeENS0_10MarginEdgeE
-libKF6Svg.so.6:_ZNK4KSvg8FrameSvg10metaObjectEv
-libKF6Svg.so.6:_ZNK4KSvg8FrameSvg12actualPrefixEv
-libKF6Svg.so.6:_ZNK4KSvg8FrameSvg12contentsRectEv
-libKF6Svg.so.6:_ZNK4KSvg8FrameSvg14enabledBordersEv
-libKF6Svg.so.6:_ZNK4KSvg8FrameSvg15fixedMarginSizeENS0_10MarginEdgeE
-libKF6Svg.so.6:_ZNK4KSvg8FrameSvg15getFixedMarginsERdS1_S1_S1_
-libKF6Svg.so.6:_ZNK4KSvg8FrameSvg16hasElementPrefixENS0_14LocationPrefixE
-libKF6Svg.so.6:_ZNK4KSvg8FrameSvg16hasElementPrefixERK7QString
-libKF6Svg.so.6:_ZNK4KSvg8FrameSvg16isRepaintBlockedEv
-libKF6Svg.so.6:_ZNK4KSvg8FrameSvg22cacheAllRenderedFramesEv
-libKF6Svg.so.6:_ZNK4KSvg8FrameSvg4maskEv
-libKF6Svg.so.6:_ZNK4KSvg8FrameSvg8getInsetERdS1_S1_S1_
-libKF6Svg.so.6:_ZNK4KSvg8FrameSvg9alphaMaskEv
-libKF6Svg.so.6:_ZNK4KSvg8FrameSvg9frameSizeEv
-libKF6Svg.so.6:_ZNK4KSvg8FrameSvg9insetSizeENS0_10MarginEdgeE
-libKF6Svg.so.6:_ZNK4KSvg8ImageSet10metaObjectEv
-libKF6Svg.so.6:_ZNK4KSvg8ImageSet12imageSetNameEv
-libKF6Svg.so.6:_ZNK4KSvg8ImageSet17useGlobalSettingsEv
-libKF6Svg.so.6:_ZNK4KSvg8ImageSet23currentImageSetHasImageERK7QString
-libKF6Svg.so.6:_ZNK4KSvg8ImageSet8basePathEv
-libKF6Svg.so.6:_ZNK4KSvg8ImageSet8filePathERK7QString
-libKF6Svg.so.6:_ZNK4KSvg8ImageSet8metadataEv
-libKF6Svg.so.6:_ZNK4KSvg8ImageSet9imagePathERK7QString
-libKF6Svg.so.6:_ZNK4KSvg8ImageSet9selectorsEv
+libKF6Svg.so.6:KSvg::Svg::eventFilter(QObject*, QEvent*)
+libKF6Svg.so.6:KSvg::Svg::qt_metacall(QMetaObject::Call, int, void**)
+libKF6Svg.so.6:KSvg::Svg::qt_metacast(char const*)
+libKF6Svg.so.6:KSvg::Svg::setColorSet(KSvg::Svg::ColorSet)
+libKF6Svg.so.6:KSvg::Svg::setImageSet(KSvg::ImageSet*)
+libKF6Svg.so.6:KSvg::Svg::sizeChanged()
+libKF6Svg.so.6:KSvg::Svg::setImagePath(QString const&)
+libKF6Svg.so.6:KSvg::Svg::repaintNeeded()
+libKF6Svg.so.6:KSvg::Svg::statusChanged(KSvg::Svg::Status)
+libKF6Svg.so.6:KSvg::Svg::colorSetChanged(KSvg::Svg::ColorSet)
+libKF6Svg.so.6:KSvg::Svg::imageSetChanged(KSvg::ImageSet*)
+libKF6Svg.so.6:KSvg::Svg::colorHintChanged()
+libKF6Svg.so.6:KSvg::Svg::imagePathChanged()
+libKF6Svg.so.6:KSvg::Svg::clearColorOverrides()
+libKF6Svg.so.6:KSvg::Svg::setDevicePixelRatio(double)
+libKF6Svg.so.6:KSvg::Svg::setUsingRenderingCache(bool)
+libKF6Svg.so.6:KSvg::Svg::setContainsMultipleImages(bool)
+libKF6Svg.so.6:KSvg::Svg::fromCurrentImageSetChanged(bool)
+libKF6Svg.so.6:KSvg::Svg::image(QSize const&, QString const&)
+libKF6Svg.so.6:KSvg::Svg::paint(QPainter*, QRectF const&, QString const&)
+libKF6Svg.so.6:KSvg::Svg::paint(QPainter*, QPointF const&, QString const&)
+libKF6Svg.so.6:KSvg::Svg::paint(QPainter*, int, int, QString const&)
+libKF6Svg.so.6:KSvg::Svg::paint(QPainter*, int, int, int, int, QString const&)
+libKF6Svg.so.6:KSvg::Svg::pixmap(QString const&)
+libKF6Svg.so.6:KSvg::Svg::resize(QSizeF const&)
+libKF6Svg.so.6:KSvg::Svg::resize(double, double)
+libKF6Svg.so.6:KSvg::Svg::resize()
+libKF6Svg.so.6:KSvg::Svg::setColor(KSvg::Svg::StyleSheetColor, QColor const&)
+libKF6Svg.so.6:KSvg::Svg::setStatus(KSvg::Svg::Status)
+libKF6Svg.so.6:KSvg::Svg::Svg(QObject*)
+libKF6Svg.so.6:KSvg::Svg::Svg(QObject*)
+libKF6Svg.so.6:KSvg::Svg::~Svg()
+libKF6Svg.so.6:KSvg::Svg::~Svg()
+libKF6Svg.so.6:KSvg::Svg::~Svg()
+libKF6Svg.so.6:KSvg::FrameSvg::clearCache()
+libKF6Svg.so.6:KSvg::FrameSvg::paintFrame(QPainter*, QRectF const&, QRectF const&)
+libKF6Svg.so.6:KSvg::FrameSvg::paintFrame(QPainter*, QPointF const&)
+libKF6Svg.so.6:KSvg::FrameSvg::framePixmap()
+libKF6Svg.so.6:KSvg::FrameSvg::qt_metacall(QMetaObject::Call, int, void**)
+libKF6Svg.so.6:KSvg::FrameSvg::qt_metacast(char const*)
+libKF6Svg.so.6:KSvg::FrameSvg::resizeFrame(QSizeF const&)
+libKF6Svg.so.6:KSvg::FrameSvg::setImagePath(QString const&)
+libKF6Svg.so.6:KSvg::FrameSvg::setElementPrefix(KSvg::FrameSvg::LocationPrefix)
+libKF6Svg.so.6:KSvg::FrameSvg::setElementPrefix(QString const&)
+libKF6Svg.so.6:KSvg::FrameSvg::setEnabledBorders(QFlags<KSvg::FrameSvg::EnabledBorder>)
+libKF6Svg.so.6:KSvg::FrameSvg::setRepaintBlocked(bool)
+libKF6Svg.so.6:KSvg::FrameSvg::minimumDrawingWidth()
+libKF6Svg.so.6:KSvg::FrameSvg::minimumDrawingHeight()
+libKF6Svg.so.6:KSvg::FrameSvg::setCacheAllRenderedFrames(bool)
+libKF6Svg.so.6:KSvg::FrameSvg::prefix()
+libKF6Svg.so.6:KSvg::FrameSvg::FrameSvg(QObject*)
+libKF6Svg.so.6:KSvg::FrameSvg::FrameSvg(QObject*)
+libKF6Svg.so.6:KSvg::FrameSvg::~FrameSvg()
+libKF6Svg.so.6:KSvg::FrameSvg::~FrameSvg()
+libKF6Svg.so.6:KSvg::FrameSvg::~FrameSvg()
+libKF6Svg.so.6:KSvg::ImageSet::qt_metacall(QMetaObject::Call, int, void**)
+libKF6Svg.so.6:KSvg::ImageSet::qt_metacast(char const*)
+libKF6Svg.so.6:KSvg::ImageSet::setBasePath(QString const&)
+libKF6Svg.so.6:KSvg::ImageSet::setSelectors(QList<QString> const&)
+libKF6Svg.so.6:KSvg::ImageSet::setCacheLimit(int)
+libKF6Svg.so.6:KSvg::ImageSet::basePathChanged(QString const&)
+libKF6Svg.so.6:KSvg::ImageSet::imageSetChanged(QString const&)
+libKF6Svg.so.6:KSvg::ImageSet::setImageSetName(QString const&)
+libKF6Svg.so.6:KSvg::ImageSet::setUseGlobalSettings(bool)
+libKF6Svg.so.6:KSvg::ImageSet::ImageSet(QObject*)
+libKF6Svg.so.6:KSvg::ImageSet::ImageSet(QString const&, QString const&, QObject*)
+libKF6Svg.so.6:KSvg::ImageSet::ImageSet(QObject*)
+libKF6Svg.so.6:KSvg::ImageSet::ImageSet(QString const&, QString const&, QObject*)
+libKF6Svg.so.6:KSvg::ImageSet::~ImageSet()
+libKF6Svg.so.6:KSvg::ImageSet::~ImageSet()
+libKF6Svg.so.6:KSvg::ImageSet::~ImageSet()
+libKF6Svg.so.6:KSvg::Svg::hasElement(QStringView) const
+libKF6Svg.so.6:KSvg::Svg::hasElement(QString const&) const
+libKF6Svg.so.6:KSvg::Svg::metaObject() const
+libKF6Svg.so.6:KSvg::Svg::elementRect(QStringView) const
+libKF6Svg.so.6:KSvg::Svg::elementRect(QString const&) const
+libKF6Svg.so.6:KSvg::Svg::elementSize(QStringView) const
+libKF6Svg.so.6:KSvg::Svg::elementSize(QString const&) const
+libKF6Svg.so.6:KSvg::Svg::devicePixelRatio() const
+libKF6Svg.so.6:KSvg::Svg::fromCurrentImageSet() const
+libKF6Svg.so.6:KSvg::Svg::isUsingRenderingCache() const
+libKF6Svg.so.6:KSvg::Svg::containsMultipleImages() const
+libKF6Svg.so.6:KSvg::Svg::size() const
+libKF6Svg.so.6:KSvg::Svg::color(KSvg::Svg::StyleSheetColor) const
+libKF6Svg.so.6:KSvg::Svg::status() const
+libKF6Svg.so.6:KSvg::Svg::isValid() const
+libKF6Svg.so.6:KSvg::Svg::colorSet() const
+libKF6Svg.so.6:KSvg::Svg::imageSet() const
+libKF6Svg.so.6:KSvg::Svg::imagePath() const
+libKF6Svg.so.6:KSvg::FrameSvg::getMargins(double&, double&, double&, double&) const
+libKF6Svg.so.6:KSvg::FrameSvg::marginSize(KSvg::FrameSvg::MarginEdge) const
+libKF6Svg.so.6:KSvg::FrameSvg::metaObject() const
+libKF6Svg.so.6:KSvg::FrameSvg::actualPrefix() const
+libKF6Svg.so.6:KSvg::FrameSvg::contentsRect() const
+libKF6Svg.so.6:KSvg::FrameSvg::enabledBorders() const
+libKF6Svg.so.6:KSvg::FrameSvg::fixedMarginSize(KSvg::FrameSvg::MarginEdge) const
+libKF6Svg.so.6:KSvg::FrameSvg::getFixedMargins(double&, double&, double&, double&) const
+libKF6Svg.so.6:KSvg::FrameSvg::hasElementPrefix(KSvg::FrameSvg::LocationPrefix) const
+libKF6Svg.so.6:KSvg::FrameSvg::hasElementPrefix(QString const&) const
+libKF6Svg.so.6:KSvg::FrameSvg::isRepaintBlocked() const
+libKF6Svg.so.6:KSvg::FrameSvg::cacheAllRenderedFrames() const
+libKF6Svg.so.6:KSvg::FrameSvg::mask() const
+libKF6Svg.so.6:KSvg::FrameSvg::getInset(double&, double&, double&, double&) const
+libKF6Svg.so.6:KSvg::FrameSvg::alphaMask() const
+libKF6Svg.so.6:KSvg::FrameSvg::frameSize() const
+libKF6Svg.so.6:KSvg::FrameSvg::insetSize(KSvg::FrameSvg::MarginEdge) const
+libKF6Svg.so.6:KSvg::ImageSet::metaObject() const
+libKF6Svg.so.6:KSvg::ImageSet::imageSetName() const
+libKF6Svg.so.6:KSvg::ImageSet::useGlobalSettings() const
+libKF6Svg.so.6:KSvg::ImageSet::currentImageSetHasImage(QString const&) const
+libKF6Svg.so.6:KSvg::ImageSet::basePath() const
+libKF6Svg.so.6:KSvg::ImageSet::filePath(QString const&) const
+libKF6Svg.so.6:KSvg::ImageSet::metadata() const
+libKF6Svg.so.6:KSvg::ImageSet::imagePath(QString const&) const
+libKF6Svg.so.6:KSvg::ImageSet::selectors() const
