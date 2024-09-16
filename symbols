@@ -1,115 +1,33 @@
-libKF6Svg.so.6:KSvg::Svg::eventFilter(QObject*, QEvent*)
-libKF6Svg.so.6:KSvg::Svg::qt_metacall(QMetaObject::Call, int, void**)
-libKF6Svg.so.6:KSvg::Svg::qt_metacast(char const*)
-libKF6Svg.so.6:KSvg::Svg::setColorSet(KSvg::Svg::ColorSet)
-libKF6Svg.so.6:KSvg::Svg::setImageSet(KSvg::ImageSet*)
-libKF6Svg.so.6:KSvg::Svg::sizeChanged()
-libKF6Svg.so.6:KSvg::Svg::setImagePath(QString const&)
-libKF6Svg.so.6:KSvg::Svg::repaintNeeded()
-libKF6Svg.so.6:KSvg::Svg::statusChanged(KSvg::Svg::Status)
-libKF6Svg.so.6:KSvg::Svg::colorSetChanged(KSvg::Svg::ColorSet)
-libKF6Svg.so.6:KSvg::Svg::imageSetChanged(KSvg::ImageSet*)
-libKF6Svg.so.6:KSvg::Svg::colorHintChanged()
-libKF6Svg.so.6:KSvg::Svg::imagePathChanged()
-libKF6Svg.so.6:KSvg::Svg::clearColorOverrides()
-libKF6Svg.so.6:KSvg::Svg::setDevicePixelRatio(double)
-libKF6Svg.so.6:KSvg::Svg::setUsingRenderingCache(bool)
-libKF6Svg.so.6:KSvg::Svg::setContainsMultipleImages(bool)
-libKF6Svg.so.6:KSvg::Svg::fromCurrentImageSetChanged(bool)
-libKF6Svg.so.6:KSvg::Svg::image(QSize const&, QString const&)
-libKF6Svg.so.6:KSvg::Svg::paint(QPainter*, QRectF const&, QString const&)
-libKF6Svg.so.6:KSvg::Svg::paint(QPainter*, QPointF const&, QString const&)
-libKF6Svg.so.6:KSvg::Svg::paint(QPainter*, int, int, QString const&)
-libKF6Svg.so.6:KSvg::Svg::paint(QPainter*, int, int, int, int, QString const&)
-libKF6Svg.so.6:KSvg::Svg::pixmap(QString const&)
-libKF6Svg.so.6:KSvg::Svg::resize(QSizeF const&)
-libKF6Svg.so.6:KSvg::Svg::resize(double, double)
-libKF6Svg.so.6:KSvg::Svg::resize()
-libKF6Svg.so.6:KSvg::Svg::setColor(KSvg::Svg::StyleSheetColor, QColor const&)
-libKF6Svg.so.6:KSvg::Svg::setStatus(KSvg::Svg::Status)
-libKF6Svg.so.6:KSvg::Svg::Svg(QObject*)
-libKF6Svg.so.6:KSvg::Svg::Svg(QObject*)
-libKF6Svg.so.6:KSvg::Svg::~Svg()
-libKF6Svg.so.6:KSvg::Svg::~Svg()
-libKF6Svg.so.6:KSvg::Svg::~Svg()
+libKF6Svg.so.6:KSvg::FrameSvg::FrameSvg(QObject*)
 libKF6Svg.so.6:KSvg::FrameSvg::clearCache()
-libKF6Svg.so.6:KSvg::FrameSvg::paintFrame(QPainter*, QRectF const&, QRectF const&)
-libKF6Svg.so.6:KSvg::FrameSvg::paintFrame(QPainter*, QPointF const&)
 libKF6Svg.so.6:KSvg::FrameSvg::framePixmap()
-libKF6Svg.so.6:KSvg::FrameSvg::qt_metacall(QMetaObject::Call, int, void**)
-libKF6Svg.so.6:KSvg::FrameSvg::qt_metacast(char const*)
-libKF6Svg.so.6:KSvg::FrameSvg::resizeFrame(QSizeF const&)
-libKF6Svg.so.6:KSvg::FrameSvg::setImagePath(QString const&)
+libKF6Svg.so.6:KSvg::FrameSvg::minimumDrawingHeight()
+libKF6Svg.so.6:KSvg::FrameSvg::minimumDrawingWidth()
+libKF6Svg.so.6:KSvg::FrameSvg::prefix()
+libKF6Svg.so.6:KSvg::FrameSvg::setCacheAllRenderedFrames(bool)
 libKF6Svg.so.6:KSvg::FrameSvg::setElementPrefix(KSvg::FrameSvg::LocationPrefix)
-libKF6Svg.so.6:KSvg::FrameSvg::setElementPrefix(QString const&)
 libKF6Svg.so.6:KSvg::FrameSvg::setEnabledBorders(QFlags<KSvg::FrameSvg::EnabledBorder>)
 libKF6Svg.so.6:KSvg::FrameSvg::setRepaintBlocked(bool)
-libKF6Svg.so.6:KSvg::FrameSvg::minimumDrawingWidth()
-libKF6Svg.so.6:KSvg::FrameSvg::minimumDrawingHeight()
-libKF6Svg.so.6:KSvg::FrameSvg::setCacheAllRenderedFrames(bool)
-libKF6Svg.so.6:KSvg::FrameSvg::prefix()
-libKF6Svg.so.6:KSvg::FrameSvg::FrameSvg(QObject*)
-libKF6Svg.so.6:KSvg::FrameSvg::FrameSvg(QObject*)
 libKF6Svg.so.6:KSvg::FrameSvg::~FrameSvg()
-libKF6Svg.so.6:KSvg::FrameSvg::~FrameSvg()
-libKF6Svg.so.6:KSvg::FrameSvg::~FrameSvg()
-libKF6Svg.so.6:KSvg::ImageSet::qt_metacall(QMetaObject::Call, int, void**)
-libKF6Svg.so.6:KSvg::ImageSet::qt_metacast(char const*)
-libKF6Svg.so.6:KSvg::ImageSet::setBasePath(QString const&)
-libKF6Svg.so.6:KSvg::ImageSet::setSelectors(QList<QString> const&)
+libKF6Svg.so.6:KSvg::ImageSet::ImageSet(QObject*)
 libKF6Svg.so.6:KSvg::ImageSet::setCacheLimit(int)
-libKF6Svg.so.6:KSvg::ImageSet::basePathChanged(QString const&)
-libKF6Svg.so.6:KSvg::ImageSet::imageSetChanged(QString const&)
-libKF6Svg.so.6:KSvg::ImageSet::setImageSetName(QString const&)
 libKF6Svg.so.6:KSvg::ImageSet::setUseGlobalSettings(bool)
-libKF6Svg.so.6:KSvg::ImageSet::ImageSet(QObject*)
-libKF6Svg.so.6:KSvg::ImageSet::ImageSet(QString const&, QString const&, QObject*)
-libKF6Svg.so.6:KSvg::ImageSet::ImageSet(QObject*)
-libKF6Svg.so.6:KSvg::ImageSet::ImageSet(QString const&, QString const&, QObject*)
 libKF6Svg.so.6:KSvg::ImageSet::~ImageSet()
-libKF6Svg.so.6:KSvg::ImageSet::~ImageSet()
-libKF6Svg.so.6:KSvg::ImageSet::~ImageSet()
-libKF6Svg.so.6:KSvg::Svg::hasElement(QStringView) const
-libKF6Svg.so.6:KSvg::Svg::hasElement(QString const&) const
-libKF6Svg.so.6:KSvg::Svg::metaObject() const
-libKF6Svg.so.6:KSvg::Svg::elementRect(QStringView) const
-libKF6Svg.so.6:KSvg::Svg::elementRect(QString const&) const
-libKF6Svg.so.6:KSvg::Svg::elementSize(QStringView) const
-libKF6Svg.so.6:KSvg::Svg::elementSize(QString const&) const
-libKF6Svg.so.6:KSvg::Svg::devicePixelRatio() const
-libKF6Svg.so.6:KSvg::Svg::fromCurrentImageSet() const
-libKF6Svg.so.6:KSvg::Svg::isUsingRenderingCache() const
-libKF6Svg.so.6:KSvg::Svg::containsMultipleImages() const
-libKF6Svg.so.6:KSvg::Svg::size() const
-libKF6Svg.so.6:KSvg::Svg::color(KSvg::Svg::StyleSheetColor) const
-libKF6Svg.so.6:KSvg::Svg::status() const
-libKF6Svg.so.6:KSvg::Svg::isValid() const
-libKF6Svg.so.6:KSvg::Svg::colorSet() const
-libKF6Svg.so.6:KSvg::Svg::imageSet() const
-libKF6Svg.so.6:KSvg::Svg::imagePath() const
-libKF6Svg.so.6:KSvg::FrameSvg::getMargins(double&, double&, double&, double&) const
-libKF6Svg.so.6:KSvg::FrameSvg::marginSize(KSvg::FrameSvg::MarginEdge) const
-libKF6Svg.so.6:KSvg::FrameSvg::metaObject() const
-libKF6Svg.so.6:KSvg::FrameSvg::actualPrefix() const
-libKF6Svg.so.6:KSvg::FrameSvg::contentsRect() const
-libKF6Svg.so.6:KSvg::FrameSvg::enabledBorders() const
-libKF6Svg.so.6:KSvg::FrameSvg::fixedMarginSize(KSvg::FrameSvg::MarginEdge) const
-libKF6Svg.so.6:KSvg::FrameSvg::getFixedMargins(double&, double&, double&, double&) const
-libKF6Svg.so.6:KSvg::FrameSvg::hasElementPrefix(KSvg::FrameSvg::LocationPrefix) const
-libKF6Svg.so.6:KSvg::FrameSvg::hasElementPrefix(QString const&) const
-libKF6Svg.so.6:KSvg::FrameSvg::isRepaintBlocked() const
-libKF6Svg.so.6:KSvg::FrameSvg::cacheAllRenderedFrames() const
-libKF6Svg.so.6:KSvg::FrameSvg::mask() const
-libKF6Svg.so.6:KSvg::FrameSvg::getInset(double&, double&, double&, double&) const
-libKF6Svg.so.6:KSvg::FrameSvg::alphaMask() const
-libKF6Svg.so.6:KSvg::FrameSvg::frameSize() const
-libKF6Svg.so.6:KSvg::FrameSvg::insetSize(KSvg::FrameSvg::MarginEdge) const
-libKF6Svg.so.6:KSvg::ImageSet::metaObject() const
-libKF6Svg.so.6:KSvg::ImageSet::imageSetName() const
-libKF6Svg.so.6:KSvg::ImageSet::useGlobalSettings() const
-libKF6Svg.so.6:KSvg::ImageSet::currentImageSetHasImage(QString const&) const
-libKF6Svg.so.6:KSvg::ImageSet::basePath() const
-libKF6Svg.so.6:KSvg::ImageSet::filePath(QString const&) const
-libKF6Svg.so.6:KSvg::ImageSet::metadata() const
-libKF6Svg.so.6:KSvg::ImageSet::imagePath(QString const&) const
-libKF6Svg.so.6:KSvg::ImageSet::selectors() const
+libKF6Svg.so.6:KSvg::Svg::Svg(QObject*)
+libKF6Svg.so.6:KSvg::Svg::clearColorOverrides()
+libKF6Svg.so.6:KSvg::Svg::colorHintChanged()
+libKF6Svg.so.6:KSvg::Svg::colorSetChanged(KSvg::Svg::ColorSet)
+libKF6Svg.so.6:KSvg::Svg::fromCurrentImageSetChanged(bool)
+libKF6Svg.so.6:KSvg::Svg::imagePathChanged()
+libKF6Svg.so.6:KSvg::Svg::imageSetChanged(KSvg::ImageSet*)
+libKF6Svg.so.6:KSvg::Svg::repaintNeeded()
+libKF6Svg.so.6:KSvg::Svg::resize()
+libKF6Svg.so.6:KSvg::Svg::setColorSet(KSvg::Svg::ColorSet)
+libKF6Svg.so.6:KSvg::Svg::setContainsMultipleImages(bool)
+libKF6Svg.so.6:KSvg::Svg::setDevicePixelRatio(double)
+libKF6Svg.so.6:KSvg::Svg::setImageSet(KSvg::ImageSet*)
+libKF6Svg.so.6:KSvg::Svg::setStatus(KSvg::Svg::Status)
+libKF6Svg.so.6:KSvg::Svg::setUsingRenderingCache(bool)
+libKF6Svg.so.6:KSvg::Svg::sizeChanged()
+libKF6Svg.so.6:KSvg::Svg::statusChanged(KSvg::Svg::Status)
+libKF6Svg.so.6:KSvg::Svg::~Svg()
